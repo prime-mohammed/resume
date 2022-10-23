@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+   /*background-image (cant even link an image from my pc so that i can put the texture on repeat would have looked much better than solid color) */
+  background-color:black;
+color: #fff;
+margin: 10% 20%;
+}
+
+
+.container{
+width: 400%;
+height: 400%;
+display: flex;
+background-color: #fff;
+align-items: center;
+justify-content: end;
+
+}
+.text{
+  height: px;
+  width: -600px;
+  background-image:url(https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif);
+  background-size: 650px 200px;
+  font-size: 36px;
+  font-family: sans-serif
+  -webkit-text-fill-color:transparent;
+  -webkit-background-clip:text;
+/*The rbg box disappeared but it just left a single pixel worth of padding as the gif which is pr*/
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+.box {
+background-image: url();
+
+}
+.box
+
+
